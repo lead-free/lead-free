@@ -1,4 +1,4 @@
-![all the things](IMG_3342.JPG?raw=true)
+![all the things](https://github.com/lead-free/lead-free/blob/master/IMG_3342.JPG)
 <!--
 **lead-free/lead-free** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
